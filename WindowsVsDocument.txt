@@ -1,0 +1,28 @@
+Browser Objec Model:
+    1. The Browser object model contains objects that represent the current browser window or tab.
+    2. Window object is a top most object in the BOM which is represent the window or tab or iframe.
+
+Window Object:
+    1. The window object represents a window/tab containing a DOM document where as document object is property of window object
+        that points to the DOM document loaded in that window.
+    2. Window object has properties like browser history, location and device's screent etc's.
+
+Document Object Model:
+    1. When a web page is loaded, the browser creates a Document Object Model of the page.
+    2. The docuemnt object represents the whole html document as a tree of objects(HTML, HEAD, BODY, and other HTML tags).
+
+Document Object:
+    1. Each HTML document that gets loaded into a window becomes a document object. The document contains the contents of the page.
+    2. Using document object, javascript can modify, add and delete the HTML elements, attributes CSS styles in the page.
+    3. we can access the document object either using window.document property or using document object directly as window is a global object.
+    4. Document object also have properties and methods but major difference is both are different behaivours.
+
+
+    Example: 
+        window.open()  --> opens a new tab/window.
+        document.open()--> creates a blank document within the window.
+
+Screen: 
+    1. Screen is the window property that holds information of browser screen. It refers to screen object assoicated with that window object.
+        used to display screen width, height, colorDepth, pixelDepth.
+    2. Screen object doesn't have any methods as in window and document objects.

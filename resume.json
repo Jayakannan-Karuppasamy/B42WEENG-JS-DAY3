@@ -1,0 +1,67 @@
+{
+    "personalInfo":{
+        "name": "Jayakannan.k",
+        "email": "jkannan98471@gmail.com",
+        "mobileno": 9842798471,
+        "gender": "male",
+        "Nationality": "Indian",
+        "Religion": "Hindu"
+    },
+    "Eductions": ["SSLC","HSC","Diploma", "Engineering"],
+    "yearOfExperience": 11,
+    "skills":{
+        "techincal_stack":{
+            "programming_language":["Java", "J2EE","JavaScript"],
+            "frameworks":["SpringBoot","Apache Camel","Hibernate"],
+            "servers":["JBOSSFUSE","TOMCAT"]
+        },
+        "operating_system":["window","redhat-linux"],
+        "database":["Oracle","MySQL","SQLServer"],
+        "developer_tools":["Eclipse IDE","Intelij IDE","SQL Developer", "SOAPUI", "POSTMAN","Talend IDE"]
+    },
+    "work_experience":[
+        {
+            "organization":"Cognizant Technologies, India.",
+            "JoiningDate": "Feb-2020",
+            "relievedDate": "Present",
+            "role": "Senior Assoicate",
+            "Payroll":"Direct"
+        },               
+        {
+            "organization":"HCL Technologies Ltd, India.",
+            "JoiningDate": "Feb-2017",
+            "relievedDate": "Jan-2020",
+            "role": "Senior Technical Lead",
+            "Payroll":"Direct"
+        },
+        {
+            "organization":"AARA Tech, Chennai.",
+            "JoiningDate": "Apr-2015",
+            "relievedDate": "Jan-2017",
+            "role": "Software Engineer",
+            "Payroll":"Direct"
+        },
+        {
+            "organization":"HCL Technologies Ltd, India",
+            "JoiningDate": "Mar-2014",
+            "relievedDate": "Jan-2015",
+            "role": "Software Engineer",
+            "Payroll":"Adecco"
+        },
+        {
+            "organization":"NIC, Pondicherry",
+            "JoiningDate": "Dec-2012",
+            "relievedDate": "Dec-2013",
+            "role": "Programmer",
+            "Payroll":"IAP Company Ltd"
+        },
+        {
+            "organization":"ZAZZY Technologies, Madurai",
+            "JoiningDate": "Sep 2010",
+            "relievedDate": "Dec 2012",
+            "role": "Software Engineer",
+            "Payroll":"Direct"
+        }
+    ]
+
+}
